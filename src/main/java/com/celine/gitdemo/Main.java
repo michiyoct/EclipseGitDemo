@@ -6,7 +6,12 @@ public class Main {
 
 		System.out.println("Git Demo");
 		
+		System.out.println("Updating Git Demo");
+		
 		System.out.println("Updating for FEATURE-1");
+
+		System.out.println("Updating Git Demo");
+
 
 	}
 
