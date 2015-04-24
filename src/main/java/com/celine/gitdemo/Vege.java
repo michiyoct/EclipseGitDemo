@@ -7,4 +7,8 @@ public class Vege {
 		
 		System.out.println("This class needed by FEature-4");
 	}
+	
+	public void update(){
+		System.out.println("This method update by FEATURE-4");
+	}
 }
